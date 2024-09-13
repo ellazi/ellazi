@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Rossella</h1>
 <h3 align="center">I'm a Jr Full-stack Developer with a Design background, combining creativity and technical skills</h3>
 
-- 🎨 As part of a talented and collaborative team, I’m currently working on an app to connect artist to potential buyers, it took us two weeks to put this together. The app is [Regal Art.](https://www.regal-art.com/)
+- 🎨 As part of a talented and collaborative team, I’m currently working on an app to connect artist to potential buyers, it took us two weeks to put this together. The app is [Regal Art.](https://github.com/finnstraehle/regal_art)
 
-- ⚓ Working in the same team, we created an Airbnb clone: [Stay Away](https://stay-away-finnstraehle-93419f0e7c0a.herokuapp.com/)
+- ⚓ Working in the same team, we created an Airbnb clone: [Stay Away](https://github.com/finnstraehle/stay_away)
   
 - 💧 I’m currently revising and expanding my skills in **Ruby on Rails, Ruby, and Javascript.**
 
