@@ -1,14 +1,13 @@
-<h1 align="center">Hi, I'm Rossella</h1>
-<h3 align="center">I'm a Jr Full-stack Developer with a Design background, combining creativity and technical skills</h3>
+<h1 align="center">Hi, I'm Rossella!</h1>
+<h3 align="center">Full-stack Developer with a Design background, and over 9 years of teaching experience, combining emotional intelligence, creativity and technical skills.</h3>
 
-- 🎨 As part of a talented and collaborative team, I’m currently working on an app to connect artist to potential buyers, it took us two weeks to put this together. The app is [Regal Art.](https://github.com/finnstraehle/regal_art)
+- 🪴 I’m currently building a Rails-based language learning web app that brings together my creativity, passion for foreign languages, teaching background, and coding skills.
+
+- 🎨 As part of a talented and collaborative team, I worked on an app to connect artists to potential buyers, it took us two weeks to put this together. The app is [Regal Art.](https://github.com/finnstraehle/regal_art). This was the final project at Le Wagon, Full Stack Development 9 weeks intensive bootcamp.
 
 - ⚓ Working in the same team, we created an Airbnb clone: [Stay Away](https://github.com/finnstraehle/stay_away)
+
   
-- 💧 I’m currently revising and expanding my skills in **Ruby on Rails, Ruby, and Javascript.**
-
-- 🌱 My upcoming learning journey includes **React and Python advanced.**
-
 <p align="left">
 </p>
 <br>
