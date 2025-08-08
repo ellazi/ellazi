@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Rossella!</h1>
 <h3 align="center">Full-stack Developer with a Design background, and over 9 years of teaching experience, combining emotional intelligence, creativity and technical skills.</h3>
 
-- 🪴 I’m currently building a Rails-based language learning web app that brings together my creativity, passion for foreign languages, teaching background, and coding skills.
+- 🪴 I’m currently building a Rails-based language learning web app that brings together my creativity, passion for foreign languages, teaching background, and coding skills. Designed in Figma.
+  
+- 😎 My profile page, hosted by GitHub pages. I developed it in HTML, CSS, Vanilla JS. Video assembled in Canva, using clips from Unsplash. [Ellazi](https://ellazi.github.io/profile/)
+  
+- 💪 After the Bootcamp I worked on a few personal projects to revise the things I had learnt. One of them started as an Airbnb coding exercise and evolved into a platform for discussing housing issues in big cities. It includes device, geocoder and cloudinary. [Havens](https://github.com/ellazi/hosting-image-upload)
 
 - 🎨 As part of a talented and collaborative team, I worked on an app to connect artists to potential buyers, it took us two weeks to put this together. The app is [Regal Art.](https://github.com/finnstraehle/regal_art). This was the final project at Le Wagon, Full Stack Development 9 weeks intensive bootcamp.
 
